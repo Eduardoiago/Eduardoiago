@@ -4,6 +4,11 @@
 
 ##
 
+<div>
+  <a href="https://github.com/Eduardoiago">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Eduardoiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <h3>Languages and Tools: </h3>
