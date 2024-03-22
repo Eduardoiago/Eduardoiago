@@ -17,9 +17,10 @@
   <img aling="center" alt="EIillustrator" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
   <img aling="center" alt="EIaftereffects" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
   <img aling="center" alt="EIblender" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/blender_alt_macos_bigsur_icon_189483.png" /> 
+  <img aling="center" alt="EImarkdown" height="40" width="40" src="https://extensions.typo3.org/typo3temp/assets/tx_terfe2/images/markdown_parser_1.0.2.svg" />
   <img aling="center" alt="EIhtml" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
   <img aling="center" alt="EIcss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-  <img aling="center" alt="EImarkdown" height="40" width="40" src="https://extensions.typo3.org/typo3temp/assets/tx_terfe2/images/markdown_parser_1.0.2.svg" />
+  <img aling="center" alt="EIjavascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
   <img aling="center" alt="EIpython" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 </div>
 
