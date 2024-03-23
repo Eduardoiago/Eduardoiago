@@ -14,7 +14,7 @@
   <h3>Languages and Tools: </h3>
   <img aling="center" alt="EIphotoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img aling="center" alt="EIlightroom" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
-  <img aling="center" alt="EIillustrator" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+  <img aling="center" alt="EIillustrator" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
   <img aling="center" alt="EIaftereffects" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
   <img aling="center" alt="EIblender" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/blender_alt_macos_bigsur_icon_189483.png" /> 
   <img aling="center" alt="EImarkdown" height="40" width="40" src="https://extensions.typo3.org/typo3temp/assets/tx_terfe2/images/markdown_parser_1.0.2.svg" />
@@ -28,6 +28,6 @@
 
 > <h3>About Me:</h3>
 - I work with front-end and back-end design and development.
-- Currently studying NodeJS, Javascript and PHP.
+- Currently studying NodeJS, Javascript, PHP e Machine Learning.
 - Contact me at: eduardoiago.work@gmail.com
     
