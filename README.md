@@ -30,6 +30,6 @@
 
 > <h3>About Me:</h3>
 - I work with front-end and back-end design and development.
-- Currently studying NodeJS, Javascript, PHP e Machine Learning.
+- Currently studying NodeJS, JAVA, PHP e Machine Learning.
 - Contact me at: eduardoiago.work@gmail.com
     
