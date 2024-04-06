@@ -1,6 +1,6 @@
 
 <h1> Hi, I am Eduardo Iago! </h1>
-<h4>Here you'll find design and programming projects, front-end and back-end.</h4>
+<h4>Here you'll find front-end design and development projects.</h4>
 
 ##
 
@@ -29,7 +29,7 @@
 ##
 
 > <h3>About Me:</h3>
-- I work with front-end and back-end design and development.
+- I work with front-end design and development.
 - Currently studying NodeJS, JAVA, PHP e Machine Learning.
 - Contact me at: eduardoiago.work@gmail.com
     
