@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/NtJN5BB/title-name.jpg" alt="title-name" border="0">
 
-Here you'll find front-end design and development projects.
+Here you'll find design projects, front-end development and some back-end studies.
 
 <div>
   <a href="https://github.com/Eduardoiago">
