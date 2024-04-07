@@ -1,13 +1,13 @@
 
 <h1> Hi, I am Eduardo Iago! </h1>
-<h4>Here you'll find front-end design and development projects.</h4>
+### Here you'll find front-end design and development projects.
 
 ##
 
 <div>
   <a href="https://github.com/Eduardoiago">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Eduardoiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eduardoiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
