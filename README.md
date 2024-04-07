@@ -5,12 +5,25 @@ Here you'll find design projects, front-end development and some back-end studie
 
 <div>
   <a href="https://github.com/Eduardoiago">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eduardoiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&langs_count=16&theme=dark"/>
+  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardoiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img width=38% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+## My Skills
+
+#### Main Stack:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+
 <div style="display: inline_block"><br>
-  <h3>Languages and Tools: </h3>
+  
+#### Languages and Tools:
+
   <img aling="center" alt="EIphotoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img aling="center" alt="EIlightroom" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
   <img aling="center" alt="EIillustrator" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
@@ -25,7 +38,7 @@ Here you'll find design projects, front-end development and some back-end studie
   <img aling="center" alt="EIpython" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 </div>
 
-##
+#
 
 > <h3>About Me:</h3>
 - I work with front-end design and development.
