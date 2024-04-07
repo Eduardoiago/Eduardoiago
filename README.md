@@ -30,5 +30,4 @@ Here you'll find front-end design and development projects.
 > <h3>About Me:</h3>
 - I work with front-end design and development.
 - Currently studying NodeJS, JAVA, PHP e Machine Learning.
-- Contact me at: eduardoiago.work@gmail.com
     
