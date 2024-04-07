@@ -44,3 +44,4 @@ Here you'll find design projects, front-end development and some back-end studie
 - I work with front-end design and development.
 - Currently studying NodeJS, JAVA, PHP e Machine Learning.
     
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdc4bb&height=120&section=footer"/>
