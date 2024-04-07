@@ -1,9 +1,7 @@
 
 <h1> Hi, I am Eduardo Iago! </h1>
 
-### Here you'll find front-end design and development projects.
-
-##
+Here you'll find front-end design and development projects.
 
 <div>
   <a href="https://github.com/Eduardoiago">
