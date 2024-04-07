@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/NtJN5BB/title-name.jpg" alt="title-name" border="0">
+<img src="https://i.ibb.co/PZWg6QV/title-Name.jpg" alt="title-Name" border="0">
 
 Here you'll find design projects, front-end development and some back-end studies.
 
