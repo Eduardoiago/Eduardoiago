@@ -1,29 +1,33 @@
 
-<img src="https://i.ibb.co/PZWg6QV/title-Name.jpg" alt="title-Name" border="0">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdc4bb&height=180&section=header"/>
 
-Here you'll find design projects, front-end development and some back-end studies.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdc4bb&size=35&center=true&vCenter=true&width=1000&lines=HI!+MY+NAME+IS+EDUARDO+IAGO;I+work+with+Design+and+front-end+development;Be+Welcome!)](https://git.io/typing-svg)
 
-<div>
+<div align="center">  
   <a href="https://github.com/Eduardoiago">
-  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardoiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img width=38% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&langs_count=16&theme=dark"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardoiago&show_icons=true&count_private=true&hide_border=true&title_color=cdc4bb&icon_color=1fbd13&text_color=cdc4bb&bg_color=0d1117" alt="Eduardo Iago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&hide_border=true&title_color=cdc4bb&text_color=cdc4bb&bg_color=0d1117" />
 </div>
 
-## My Skills
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduardoiago&bg_color=0d1117&color=cdc4bb&line=1fbd13&point=cdc4bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### Main Stack:
+
+### Main Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-a90d95?style=for-the-badge&logo=Markdown&logoColor=black)&nbsp;
 
+### Studying in this moment:
 
-<div style="display: inline_block"><br>
-  
-#### Languages and Tools:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<div style="display: inline_block"><br> 
+  <h4>Extra Tools:</h4>
   <img aling="center" alt="EIphotoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img aling="center" alt="EIlightroom" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
   <img aling="center" alt="EIillustrator" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
@@ -31,17 +35,18 @@ Here you'll find design projects, front-end development and some back-end studie
   <img aling="center" alt="EIblender" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/blender_alt_macos_bigsur_icon_189483.png" />
   <img aling="center" alt="EIwordpress" height="40" width="40" src="https://www.svgrepo.com/show/217790/wordpress.svg" />
   <img aling="center" alt="EIfigma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img aling="center" alt="EImarkdown" height="40" width="40" src="https://extensions.typo3.org/typo3temp/assets/tx_terfe2/images/markdown_parser_1.0.2.svg" />
-  <img aling="center" alt="EIhtml" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
-  <img aling="center" alt="EIcss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-  <img aling="center" alt="EIjavascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-  <img aling="center" alt="EIpython" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 </div>
 
-#
+> ### About Me:
 
-> <h3>About Me:</h3>
+Here you'll find design projects, front-end development and some back-end studies.
+
 - I work with front-end design and development.
-- Currently studying NodeJS, JAVA, PHP e Machine Learning.
+- Currently studying NodeJS and PHP. Reading a lot about JAVA and Machine learning.
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eduardoiago}/count.svg" /></p> 
+</div>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdc4bb&height=120&section=footer"/>
