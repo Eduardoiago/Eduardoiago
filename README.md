@@ -44,9 +44,10 @@ Here you'll find design projects, front-end development and some back-end studie
 - I work with front-end design and development.
 - Currently studying NodeJS and PHP. Reading a lot about JAVA and Machine learning.
 
-<div align="center">
+<!-- Visitors Count -->
+<!--<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eduardoiago}/count.svg" /></p> 
-</div>
+</div>-->
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdc4bb&height=120&section=footer"/>
