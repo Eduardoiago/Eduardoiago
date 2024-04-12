@@ -1,7 +1,8 @@
-
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdc4bb&height=180&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdc4bb&size=35&center=true&vCenter=true&width=1000&lines=HI!+MY+NAME+IS+EDUARDO+IAGO;I+work+with+Design+and+front-end+development;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdc4bb&size=50&center=true&vCenter=true&width=1000&lines=HI!+MY+NAME+IS+EDUARDO+IAGO;I+work+with+Design+and+front-end+development;Be+Welcome!)](https://git.io/typing-svg)
+-->
 
 <div align="center">  
   <a href="https://github.com/Eduardoiago">
@@ -17,7 +18,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-a90d95?style=for-the-badge&logo=Markdown&logoColor=black)&nbsp;
 
@@ -36,6 +36,15 @@
   <img aling="center" alt="EIwordpress" height="40" width="40" src="https://www.svgrepo.com/show/217790/wordpress.svg" />
   <img aling="center" alt="EIfigma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
+
+<!-- About me
+``` yamp
+name: Eduardo Iago
+from: ["Olinda", "BR"]
+job: ["UI Designer", "Web Developer"]
+currently_learning: ["HTML", "CSS", "JavaScript", "Python"]
+hobbies: ["studying"] 
+``` -->
 
 > ### About Me:
 
