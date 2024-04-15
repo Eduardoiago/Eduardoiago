@@ -13,18 +13,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduardoiago&bg_color=0d1117&color=cdc4bb&line=1fbd13&point=cdc4bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### Main Skills
+### Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-a90d95?style=for-the-badge&logo=Markdown&logoColor=black)&nbsp;
-
-### Studying in this moment:
-
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div style="display: inline_block">
   <h4>Extra Tools:</h4>
@@ -37,21 +32,17 @@
   <img aling="center" alt="EIfigma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-<!-- About me
+### About me
 ``` yaml
 name: Eduardo Iago
 from: ["BR"]
+language: ["Portuguese", "English"]
 job: ["UI Designer", "Web Developer"]
-currently_learning: ["HTML", "CSS", "JavaScript", "Python"]
-hobbies: ["studying"] 
-``` -->
+strong skills: ["UI Design", "HTML", "CSS", "JavaScript", "Python"]
+studying: ["NodeJS", "PHP"] 
+```
 
-> ### About Me:
-
-Here you'll find design projects, front-end development and some back-end studies.
-
-- I work with front-end design and development.
-- Currently studying NodeJS and PHP. Reading a lot about JAVA and Machine learning.
+#### I work with UI design and front-end development. Here you'll find design projects, front-end development and some back-end studies.
 
 <!-- Visitors Count -->
 <!--<div align="center">
@@ -59,4 +50,4 @@ Here you'll find design projects, front-end development and some back-end studie
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eduardoiago}/count.svg" /></p> 
 </div>-->
     
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdc4bb&height=120&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdc4bb&height=120&section=footer"/>-->
