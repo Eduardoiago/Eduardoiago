@@ -42,7 +42,7 @@ strong skills: ["UI Design", "HTML", "CSS", "JavaScript", "Python"]
 studying: ["NodeJS", "PHP"] 
 ```
 
-#### I work with UI design and front-end development. Here you'll find design projects, front-end development and some back-end studies.
+I work with UI design and front-end development. Here you'll find design projects, front-end development and some back-end studies.
 
 <!-- Visitors Count -->
 <!--<div align="center">
