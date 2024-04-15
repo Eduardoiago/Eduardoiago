@@ -26,7 +26,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div style="display: inline_block"><br> 
+<div style="display: inline_block">
   <h4>Extra Tools:</h4>
   <img aling="center" alt="EIphotoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img aling="center" alt="EIlightroom" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
@@ -38,9 +38,9 @@
 </div>
 
 <!-- About me
-``` yamp
+``` yaml
 name: Eduardo Iago
-from: ["Olinda", "BR"]
+from: ["BR"]
 job: ["UI Designer", "Web Developer"]
 currently_learning: ["HTML", "CSS", "JavaScript", "Python"]
 hobbies: ["studying"] 
