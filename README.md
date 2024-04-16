@@ -36,7 +36,7 @@
 ``` yaml
 name: Eduardo Iago
 from: ["BR"]
-language: ["Portuguese", "English"]
+language: ["Portuguese"]
 job: ["UI Designer", "Web Developer"]
 strong skills: ["UI Design", "HTML", "CSS", "JavaScript", "Python"]
 studying: ["NodeJS", "PHP"] 
