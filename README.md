@@ -37,7 +37,7 @@
 name: Eduardo Iago
 from: [BR]
 language: ["Portuguese", "English"]
-job: ["UI Designer", "Front-End Developer"]
+job: ["UI Designer", "Front-End Developer", "Graphic designer"]
 OS: ["Linux", "Kali Linux", "Windows"]
 skills: ["UI Design", "HTML", "CSS", "JavaScript", "Python"]
 studying: ["NodeJS", "PHP"] 
