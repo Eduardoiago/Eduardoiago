@@ -35,10 +35,11 @@
 ### About me
 ``` yaml
 name: Eduardo Iago
-from: ["BR"]
-language: ["Portuguese"]
-job: ["UI Designer", "Web Developer"]
-strong skills: ["UI Design", "HTML", "CSS", "JavaScript", "Python"]
+from: [BR]
+language: ["Portuguese", "English"]
+job: ["UI Designer", "Front-End Developer"]
+OS: ["Linux", "Kali Linux", "Windows"]
+skills: ["UI Design", "HTML", "CSS", "JavaScript", "Python"]
 studying: ["NodeJS", "PHP"] 
 ```
 
