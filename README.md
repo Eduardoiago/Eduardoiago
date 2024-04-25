@@ -1,8 +1,3 @@
-<!--
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdc4bb&height=180&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdc4bb&size=50&center=true&vCenter=true&width=1000&lines=HI!+MY+NAME+IS+EDUARDO+IAGO;I+work+with+Design+and+front-end+development;Be+Welcome!)](https://git.io/typing-svg)
--->
 
 <div align="center">  
   <a href="https://github.com/Eduardoiago">
@@ -43,11 +38,3 @@ studying: ["NodeJS", "PHP"]
 ```
 
 I work with UI design and front-end development. Here you'll find design projects, front-end development and some back-end studies.
-
-<!-- Visitors Count -->
-<!--<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eduardoiago}/count.svg" /></p> 
-</div>-->
-    
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdc4bb&height=120&section=footer"/>-->
