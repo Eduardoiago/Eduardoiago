@@ -12,7 +12,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduardoiago&bg_color=0d1117&color=cdc4bb&line=1fbd13&point=cdc4bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ### Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -29,6 +28,7 @@
   <img aling="center" alt="EIblender" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/blender_alt_macos_bigsur_icon_189483.png" />
   <img aling="center" alt="EIwordpress" height="40" width="40" src="https://www.svgrepo.com/show/217790/wordpress.svg" />
   <img aling="center" alt="EIfigma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img aling="center" alt="git" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/>
 </div>
 
 ### About me
