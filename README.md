@@ -12,7 +12,9 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <div style="display: inline_block">
   <h4>Extra Tools:</h4>
@@ -23,18 +25,17 @@
   <img aling="center" alt="EIblender" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/blender_alt_macos_bigsur_icon_189483.png" />
   <img aling="center" alt="EIwordpress" height="40" width="40" src="https://www.svgrepo.com/show/217790/wordpress.svg" />
   <img aling="center" alt="EIfigma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img aling="center" alt="git" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/>
 </div>
 
 ### About me
+
 ``` yaml
 name: Eduardo Iago
 from: [BR]
 language: ["Portuguese", "English"]
-job: ["UI Designer", "Front-End Developer", "Graphic designer"]
-OS: ["Linux", "Kali Linux", "Windows"]
-skills: ["UI Design", "HTML", "CSS", "JavaScript", "Python"]
-studying: ["NodeJS", "PHP"] 
+job: ["Front-End Developer", "UI Designer", "Graphic designer"]
+OS: ["Linux", "Windows"]
+skills: ["HTML", "CSS", "JavaScript", "Python", "Markdown", "Git"]
+studying: ["PHP"]
+description: ["I work with UI design and front-end development. Here you'll find design projects, front-end development and some back-end studies."]
 ```
-
-I work with UI design and front-end development. Here you'll find design projects, front-end development and some back-end studies.
