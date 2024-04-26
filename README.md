@@ -34,7 +34,7 @@ name: Eduardo Iago
 from: [BR]
 language: ["Portuguese", "English"]
 job: ["Front-End Developer", "UI Designer", "Graphic designer"]
-OS: ["Linux", "Windows"]
+os: ["Linux", "Windows"]
 skills: ["HTML", "CSS", "JavaScript", "Python", "Markdown", "Git"]
 studying: ["PHP"]
 description: ["I work with UI design and front-end development. Here you'll find design projects, front-end development and some back-end studies."]
