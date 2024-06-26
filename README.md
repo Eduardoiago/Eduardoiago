@@ -7,35 +7,37 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduardoiago&bg_color=0d1117&color=cdc4bb&line=1fbd13&point=cdc4bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Skills
+### <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h2>
 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<div style="display: inline_block">
-  <h4>Extra Tools:</h4>
-  <img aling="center" alt="EIphotoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img aling="center" alt="EIlightroom" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
-  <img aling="center" alt="EIillustrator" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
-  <img aling="center" alt="EIaftereffects" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-  <img aling="center" alt="EIblender" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/blender_alt_macos_bigsur_icon_189483.png" />
-  <img aling="center" alt="EIwordpress" height="40" width="40" src="https://www.svgrepo.com/show/217790/wordpress.svg" />
-  <img aling="center" alt="EIfigma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-161637.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-%233B4D98.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### About me
 
 ``` yaml
-name: Eduardo Iago
 from: [BR]
 language: ["Portuguese", "English"]
 job: ["Front-End Developer", "UI Designer", "Graphic designer"]
 os: ["Linux", "Windows"]
-skills: ["HTML", "CSS", "JavaScript", "Python", "Markdown", "Git"]
-studying: ["PHP"]
+skills: ["Shell Script", "Python", "JavaScript", "TypeScript", "HTML5", "CSS3", "Markdown", "Git"]
 description: ["I work with UI design and front-end development. Here you'll find design projects, front-end development and some back-end studies."]
 ```
+
+![](https://komarev.com/ghpvc/?username=your-github-Eduardoiago&style=for-the-badge)
