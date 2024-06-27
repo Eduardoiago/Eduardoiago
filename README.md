@@ -36,7 +36,7 @@ from: [BR]
 language: ["Portuguese", "English"]
 job: ["Front-End Developer", "UI Designer", "Graphic designer"]
 os: ["Linux", "Windows"]
-skills: ["Shell Script", "Python", "JavaScript", "TypeScript", "HTML5", "CSS3", "Markdown", "Git"]
+skills: ["Shell Script", "Python", "JavaScript", "TypeScript", "HTML5", "CSS3", "Git"]
 description: ["I work with UI design and front-end development. Here you'll find design projects, front-end development and some back-end studies."]
 ```
 
