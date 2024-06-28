@@ -1,13 +1,8 @@
 
-<!--<div align="center">  
-  <a href="https://github.com/Eduardoiago">
-  <img width="41%" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardoiago&theme=github_dark" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&hide_border=true&title_color=cdc4bb&text_color=cdc4bb&bg_color=0d1117"/>
-</div>-->
-
 <div align="center">  
   <a href="https://github.com/Eduardoiago">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Eduardoiago&theme=github-dark&hide_border=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&hide_border=true&title_color=cdc4bb&text_color=cdc4bb&bg_color=0d1117"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduardoiago&bg_color=0d1117&color=cdc4bb&line=1fbd13&point=cdc4bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
