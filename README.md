@@ -1,7 +1,7 @@
 
 <div align="center">  
   <a href="https://github.com/Eduardoiago">
-  <img width="45%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=Eduardoiago&theme=github-dark&hide_border=true"/> 
+  <img width="41%" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardoiago&theme=github_dark" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoiago&layout=compact&hide_border=true&title_color=cdc4bb&text_color=cdc4bb&bg_color=0d1117"/>
 </div>
 
@@ -9,8 +9,7 @@
 
 <div align="center">  
   <a href="https://github.com/Eduardoiago">
-  <img width='58%' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardoiago&theme=github_dark"/> 
-  <img width="41%" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardoiago&theme=github_dark" />
+  <img width="45%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=Eduardoiago&theme=github-dark&hide_border=true"/>
 </div>
 
 ### <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h2>
