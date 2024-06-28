@@ -9,7 +9,7 @@
 
 <div align="center">  
   <a href="https://github.com/Eduardoiago">
-  <img width="45%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=Eduardoiago&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eduardoiago&theme=github-dark&hide_border=true"/>
 </div>
 
 ### <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h2>
